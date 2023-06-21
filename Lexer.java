@@ -64,15 +64,7 @@ public class Lexer {
         return tokens;
     }
 
- /*   public static void addCharLex() {
-        int lexemeLength = 0;
-        char nextChar = 0;
-        char[] lexemes = new char[0];
-        if (lexemeLength <= 20) {
-            lexemes[lexemeLength++] = nextChar;
-        }
 
-    }*/
     static char[] lexeme;
     static char nextChar;
     static int lexemeLength;
