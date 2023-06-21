@@ -1,2 +1,2 @@
 # RecursiveDescentParser
- designing my own bsic programming language.
+ designing my own basic programming language.
